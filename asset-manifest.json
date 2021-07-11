@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kowshik.shikder/static/css/main.a617e044.chunk.css",
+    "main.js": "/kowshik.shikder/static/js/main.11ba1002.chunk.js",
+    "main.js.map": "/kowshik.shikder/static/js/main.11ba1002.chunk.js.map",
+    "runtime-main.js": "/kowshik.shikder/static/js/runtime-main.8932d9cb.js",
+    "runtime-main.js.map": "/kowshik.shikder/static/js/runtime-main.8932d9cb.js.map",
+    "static/js/2.753a221b.chunk.js": "/kowshik.shikder/static/js/2.753a221b.chunk.js",
+    "static/js/2.753a221b.chunk.js.map": "/kowshik.shikder/static/js/2.753a221b.chunk.js.map",
+    "static/js/3.3483a1b5.chunk.js": "/kowshik.shikder/static/js/3.3483a1b5.chunk.js",
+    "static/js/3.3483a1b5.chunk.js.map": "/kowshik.shikder/static/js/3.3483a1b5.chunk.js.map",
+    "index.html": "/kowshik.shikder/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/kowshik.shikder/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.753a221b.chunk.js.LICENSE.txt": "/kowshik.shikder/static/js/2.753a221b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/kowshik.shikder/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8932d9cb.js",
+    "static/js/2.753a221b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.11ba1002.chunk.js"
+  ]
+}
